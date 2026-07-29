@@ -1,1 +1,2 @@
 # qr-img
+use qr
